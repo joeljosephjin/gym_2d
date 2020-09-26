@@ -25,3 +25,6 @@ for i in range(1000):
 print('END:- reached:', observation,',within dist:', env.dist, ',in steps:', i)
 ```
 
+## Render Output
+
+![Render Output](https://github.com/joeljosephjin/gym_2d/blob/master/render.png)
