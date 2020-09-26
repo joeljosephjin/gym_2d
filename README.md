@@ -1,5 +1,7 @@
 # gym_2d
 Simple 2D Navigation task environment for meta reinforcement learning research.
+Implemented from the paper: [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+](https://arxiv.org/abs/1703.03400)
 
 ## Test
 
